@@ -1,4 +1,5 @@
 # CivicScan — Online Voting System with Facial Recognition
+🔗 **[Live Demo](https://bharat-bit.github.io/civic-vote-facial-recognition/)**
 
 A front-end demo of a biometric-gated voting flow: **enroll → face scan → login → vote → live results.**
 
